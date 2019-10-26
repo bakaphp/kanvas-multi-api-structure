@@ -26,7 +26,7 @@ This is a structure for a Kanvas API to handle multipe API Domains
  ---- mapper
  ---- middleware
  ---- providers
-- library
+- library (or infastructure)
  --> common logic
 - storage
 - test
