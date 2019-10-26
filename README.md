@@ -7,7 +7,7 @@ This is a structure for a Kanvas API to handle multipe API Domains
  - store
  --- config
  --- router
- --- contronller
+ --- controller
  --- public
  --- library or domain?
  ---- Dto
@@ -18,7 +18,7 @@ This is a structure for a Kanvas API to handle multipe API Domains
  - cms
  --- config
  --- router
- --- contronller
+ --- controller
  --- public
  --- library or domain?
  ---- Dto
