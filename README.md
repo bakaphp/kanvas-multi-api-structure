@@ -9,7 +9,7 @@ This is a structure for a Kanvas API to handle multipe API Domains
  --- router
  --- contronller
  --- public
- --- library
+ --- library or domain?
  ---- Dto
  ---- listener
  ---- mapper
@@ -20,7 +20,7 @@ This is a structure for a Kanvas API to handle multipe API Domains
  --- router
  --- contronller
  --- public
- --- library
+ --- library or domain?
  ---- Dto
  ---- listener
  ---- mapper
